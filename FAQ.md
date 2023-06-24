@@ -1,0 +1,2 @@
+## What is the reducer?
+It is a function, which takes in some informations about the current state, also takes in some actions that should be performed on the current state and returns back the new value of the state. 
